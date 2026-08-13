@@ -2,6 +2,7 @@
 
 This removes persistant window of non-commercial use of spacedesk.
 
-#### Just replace the spacedeskServiceTray.exe with original one and make it read-only since it replaces on windows restart
+#### Just replace the ```spacedeskServiceTray.exe``` with original one. It most likely located in ```C:\Program Files\datronicsoft\spacedesk```
 
-## Note: I didn't test it with other version of driver. v2228 is fine
+## Note: I didn't test it with later version of driver. v2228 (2.2.28) is fine!  
+Leave a star if worked!
